@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413625154080",
+    "firebase_url": "https://texter-15a74.firebaseio.com",
+    "project_id": "texter-15a74",
+    "storage_bucket": "texter-15a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413625154080:android:a7a874a45fb4bad1469a45",
+        "android_client_info": {
+          "package_name": "com.dnuel.My_Texter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413625154080-rq3g06obfq751am9jcoi36vivq0onre5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKH4KR65SPsTuxQ20_T235xprmirwn7GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413625154080-rq3g06obfq751am9jcoi36vivq0onre5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
